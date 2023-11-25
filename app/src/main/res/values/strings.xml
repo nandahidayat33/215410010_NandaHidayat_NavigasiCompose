@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">SavorStreet</string>
+    <string name="back_button">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_accompaniment">Penyedap Rasa</string>
+    <string name="choose_entree">Pilih Menu Istimewa</string>
+    <string name="choose_side_dish">Pilih Minuman</string>
+    <string name="next">Next</string>
+    <string name="order_checkout">Order Checkout</string>
+    <string name="start_order">Mulai Memesan</string>
+    <string name="order_summary">Catatan Pemesanan</string>
+    <string name="subtotal">Total Pesanan: %s</string>
+    <string name="tax">Pajak: %s</string>
+    <string name="total">Bayar Sekarang: %s</string>
+    <string name="submit">Submit</string>
+</resources>
